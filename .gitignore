@@ -1,0 +1,10 @@
+bin
+build
+repos
+.classpath
+.project
+.settings
+*.log
+*.class
+*.jar
+*~
